@@ -1,0 +1,4 @@
+node server.js
+npx create-react-app college-management-frontend
+cd college-management-frontend
+npm install axios
